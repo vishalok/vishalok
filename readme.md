@@ -16,7 +16,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://github.com/pallab-nandi">
+  <a href="https://github.com/vishalok">
     <img src="https://skillicons.dev/icons?i=js,nodejs,express,mysql,mongodb,git,github,html,css,linux" />
   </a>
 </p>
