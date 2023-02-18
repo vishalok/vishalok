@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vishalok.github.io/](https://vishalok.github.io/)
 
-- 📫 How to connect me **vrsafetech@gmail.com**
+- 📫 How to connect me **vradvise01@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
