@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, This is Vishal Rathod</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate <b>Backend / Full Stack Developer</b> from India</h3>
 <h1 align="center"> my new portfolio -> https://portfolio-nsr8.onrender.com </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalok&label=Profile%20views&color=0e75b6&style=flat" alt="vishalok" /> </p>
 
-- 🌱 I’m currently learning **NodeJS, ExpressJS, MySQL, MongoDB, Git, JWT**
+- 🌱 I’m currently working **NodeJS, ExpressJS, MySQL, MongoDB, Git, JWT**
+.
 
-- 👨‍💻 All of my projects are available at [https://vishalok.github.io/](https://vishalok.github.io/)
+🚀 Portfolio: https://portfolio-nsr8.onrender.com
 
-- 📫 How to connect me **vradvise01@gmail.com**
+💼 Projects: https://vishalok.github.io/
+- All of my projects are available at [https://vishalok.github.io/](https://vishalok.github.io/)
+
+-👨‍💻 Experienced in developing real-world applications with clean architecture and database-driven design.
+
+- 📫 How to connect me **vishalcodinghub@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -28,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalok&show_icons=true&locale=en" alt="vishalok" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalok&" alt="vishalok" /></p>
+
