@@ -13,7 +13,7 @@
   <li>Maintaining code quality, version control, and collaboration via <strong>Git/GitHub</strong> with clean project documentation.</li>
 </ul>
 
-🚀 Portfolio: https://portfolio-nsr8.onrender.com
+🚀 Portfolio: https://portfolio-nsr8.onrender.com <br>
 💼 Projects: https://vishalok.github.io/
 
 -👨‍💻 Experienced in developing real-world applications with clean architecture and database-driven design.
@@ -39,5 +39,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalok&show_icons=true&locale=en" alt="vishalok" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalok&" alt="vishalok" /></p>
+
 
 
