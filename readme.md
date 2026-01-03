@@ -1,19 +1,24 @@
 <h1 align="center">Hi 👋, This is Vishal Rathod</h1>
 <h3 align="center">A passionate <b>Backend / Full Stack Developer</b> from India</h3>
-<h1 align="center"> my new portfolio -> https://portfolio-nsr8.onrender.com </h1>
+<h1 align="center"> I enjoy building scalable backend systems, APIs, and full-stack web applications. </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalok&label=Profile%20views&color=0e75b6&style=flat" alt="vishalok" /> </p>
 
-- 🌱 I’m currently working **NodeJS, ExpressJS, MySQL, MongoDB, Git, JWT**
-.
+<h2>🌱 Currently Working On</h2>
+<ul>
+  <li>Building <strong>robust backend systems</strong> using <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>RESTful APIs</strong> with secure <strong>JWT authentication</strong>.</li>
+  <li>Designing and optimizing <strong>relational and NoSQL databases</strong> with <strong>MySQL</strong> and <strong>MongoDB</strong> for production-ready applications.</li>
+  <li>Creating <strong>full-stack applications</strong> integrating <strong>Next.js</strong>, <strong>React</strong>, and <strong>Tailwind CSS</strong>, including deployment on <strong>Vercel</strong> and <strong>VPS hosting</strong>.</li>
+  <li>Hands-on experience with <strong>PHP (Laravel)</strong>, <strong>API integrations</strong>, and CMS platforms like <strong>Shopify</strong>, <strong>WordPress</strong>, and <strong>Wix</strong>.</li>
+  <li>Exploring <strong>AI/LLM API integrations</strong> to build intelligent and interactive features.</li>
+  <li>Maintaining code quality, version control, and collaboration via <strong>Git/GitHub</strong> with clean project documentation.</li>
+</ul>
 
 🚀 Portfolio: https://portfolio-nsr8.onrender.com
-
 💼 Projects: https://vishalok.github.io/
-- All of my projects are available at [https://vishalok.github.io/](https://vishalok.github.io/)
 
 -👨‍💻 Experienced in developing real-world applications with clean architecture and database-driven design.
 
-- 📫 How to connect me **vishalcodinghub@gmail.com**
+- 📫 Reach me at: **vishalcodinghub@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -34,4 +39,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalok&show_icons=true&locale=en" alt="vishalok" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalok&" alt="vishalok" /></p>
+
 
