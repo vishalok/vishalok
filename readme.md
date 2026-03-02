@@ -15,7 +15,7 @@
 
 🚀 Portfolio: https://portfolio-nsr8.onrender.com <br>
 💼 Projects: https://vishalok.github.io/
-
+🚀 New Portfolio 2026: https://visionary-meerkat-1440fe.netlify.app/
 -👨‍💻 Experienced in developing real-world applications with clean architecture and database-driven design.
 
 - 📫 Reach me at: **vishalcodinghub@gmail.com**
@@ -39,6 +39,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalok&show_icons=true&locale=en" alt="vishalok" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalok&" alt="vishalok" /></p>-->
+
 
 
 
